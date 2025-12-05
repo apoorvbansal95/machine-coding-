@@ -1,0 +1,19 @@
+.tabtext{
+    display: none;
+}
+.tablink{
+    background-color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+.tablink:hover{
+    background-color: lightslategray;
+}
+
+.tablink.active{
+    background-color: gray;
+
+}
+.tabtext.active{
+    display: block;
+}
