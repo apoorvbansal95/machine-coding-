@@ -1,0 +1,10 @@
+.accordian{
+    border: 1px;
+}
+.accordian-item{
+    border-bottom: 1px solid black;
+}
+.accordian-header{
+    background-color: gray;
+    cursor: pointer;
+}
