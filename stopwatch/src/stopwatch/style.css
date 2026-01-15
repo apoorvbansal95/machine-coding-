@@ -1,0 +1,14 @@
+.time{
+    font-size:6rem;
+    display: inline-block;
+    width: 200px;
+}
+
+.stopwatch{
+    display:flex;
+    flex-direction:column;
+}
+
+.stopwatch div button{
+    margin-inline:10px;
+}
